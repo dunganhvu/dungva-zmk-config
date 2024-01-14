@@ -170,7 +170,7 @@
       "&kp PSCRN ",
       "&kp SLCK ",
       "&kp PAUSE_BREAK ",
-      "&reset",
+      "&trans",
       "&trans    ",
       "&kp LEFT ",
       "&kp DOWN ",
@@ -183,7 +183,7 @@
       "&trans ",
       "&kp HOME  ",
       "&kp PG_UP   ",
-      "&bootloader",
+      "&trans",
       "&kp C_PREV ",
       "&none ",
       "&kp C_VOL_DN ",
@@ -209,6 +209,6 @@
       "&rgb_ug RGB_TOG   ",
       "&bl BL_TOG ",
       "&bt BT_CLR"
-    ]
+    ]    
   ]
 }
